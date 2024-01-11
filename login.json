@@ -1,0 +1,20 @@
+{
+    "login":[
+        {
+            "user":"admin",
+            "pass":"12345",
+            "role":"admin"
+        },
+        {
+            "user":"user1",
+            "pass":"12345",
+            "role":"user"
+        },
+        {
+            "user":"user2",
+            "pass":"12345",
+            "role":"user"
+        }
+    ]
+
+}
